@@ -1,1 +1,0 @@
-ocamlc -o hw0.exe hw0.ml
