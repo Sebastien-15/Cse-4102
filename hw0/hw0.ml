@@ -13,9 +13,9 @@ let q1 = true
 (* There are more than 4 language paradigms *)
 let q2 = true
 (* An interpreter translates a high-level program to machine code *)
-let q3 = true
+let q3 = false
 (* The first compiler was written by Alan Turing *)
-let q4 = true
+let q4 = false
 (* It's possible to use ideas from one PL in another *)
 let q5 = true
 
