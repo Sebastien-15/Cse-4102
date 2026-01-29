@@ -9,15 +9,15 @@ exception Unimplemented
 
 (* True-false questions *)
 (* Static types are checked at compile time *)
-let q1 = raise Unimplemented
+let q1 = true
 (* There are more than 4 language paradigms *)
-let q2 = raise Unimplemented
+let q2 = true
 (* An interpreter translates a high-level program to machine code *)
-let q3 = raise Unimplemented
+let q3 = true
 (* The first compiler was written by Alan Turing *)
-let q4 = raise Unimplemented
+let q4 = true
 (* It's possible to use ideas from one PL in another *)
-let q5 = raise Unimplemented
+let q5 = true
 
 
 (* Do not modify below *)
